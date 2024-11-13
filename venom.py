@@ -57,4 +57,5 @@ if __name__ == '__main__':
     try:
         asyncio.run(main())
     except KeyboardInterrupt:
-        logging.info("Venom script terminated by user.")
+        
+        logging.info("vamp")
